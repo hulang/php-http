@@ -1,7 +1,6 @@
 {
     "name": "hulang/php-http",
     "description": "PHP CURL http",
-    "version": "1.0.0",
     "authors": [{
         "name": "hulang",
         "email": "hulangfy@163.com"
